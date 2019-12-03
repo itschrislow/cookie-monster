@@ -11,4 +11,6 @@ Facial Gestures:
 - tense cheeks to move cookie down
 - open mouth to eat cookie
 
-Try it out at https://www.instagram.com/a/r/?effect_id=2480808942201900&ch=MmZiY2QwYzY1ZDdkMmUxNjM3OTU0NmNmNTFiYzAxNGI=
+![](demo.gif)
+
+Try it out at https://www.instagram.com/a/r/?effect_id=2480808942201900
