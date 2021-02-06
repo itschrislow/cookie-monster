@@ -10,4 +10,7 @@ Instagram AR game with the goal of moving a cookie from forehead into mouth usin
 
 Try it out [here](https://www.instagram.com/a/r/?effect_id=2480808942201900)!
 
+### Built Using:
+- [Spark AR Studio](https://sparkar.facebook.com/ar-studio/)
+
 ![](demo.gif)
